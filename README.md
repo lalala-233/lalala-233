@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalala-233&hide=html,javascript,css&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalala-233&layout=compact)
 
 ![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalala-233)
